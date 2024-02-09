@@ -1,0 +1,78 @@
+/* * {
+    background-color: azure;
+} */
+
+container nav {
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+container nav h1 {
+    font-size: 37px;
+}
+
+div.upBar {
+    display: flex;
+    height: auto;
+    width: auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+div.upBar p {
+    display: inline-block;
+    font-size: large;
+    width: 1050px;
+}
+
+container form#averageCalculation {
+    display: flex;
+    justify-content: center;
+}
+
+container form textarea {
+    max-width: 500px;
+    max-height: 250px;
+    min-height: 150px;
+    min-width: 250px;
+}
+
+container form#averageNote {
+    display: flex;
+    height: 100px;
+    width: auto;
+    justify-content: center;
+}
+
+container form#averageNote button {
+   height: 40px;
+   margin-top: 10px;
+   margin-left: 10px;
+}
+
+container form#averageNote input {
+    height: 30px;
+    margin-top: 15px;
+ }
+
+container div#calculation {
+    display: block;
+    height: 250px;
+    text-align: center;
+}
+
+container div#calculation div#oneCalculation {
+    display: block;
+    height: 50px;
+    text-align: center;
+}
+
+container div#calculation h4 {
+    display: inline-block;
+    /* width: 263px; */
+    font-size: 30px;
+    /* height: 40px; */
+}
