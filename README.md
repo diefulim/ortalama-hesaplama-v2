@@ -1,0 +1,2 @@
+# ortalama-hesaplama-v2
+ 
